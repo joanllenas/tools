@@ -1,0 +1,13 @@
+{
+  "main.css": "/tools/static/css/main.a391b96a.chunk.css",
+  "main.js": "/tools/static/js/main.c55474d9.chunk.js",
+  "main.css.map": "/tools/static/css/main.a391b96a.chunk.css.map",
+  "main.js.map": "/tools/static/js/main.c55474d9.chunk.js.map",
+  "runtime~main.js": "/tools/static/js/runtime~main.57921874.js",
+  "runtime~main.js.map": "/tools/static/js/runtime~main.57921874.js.map",
+  "vendors~main.css": "/tools/static/css/vendors~main.53effeef.chunk.css",
+  "vendors~main.js": "/tools/static/js/vendors~main.97bf9fa5.chunk.js",
+  "vendors~main.css.map": "/tools/static/css/vendors~main.53effeef.chunk.css.map",
+  "vendors~main.js.map": "/tools/static/js/vendors~main.97bf9fa5.chunk.js.map",
+  "index.html": "/tools/index.html"
+}
