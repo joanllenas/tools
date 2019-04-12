@@ -8,6 +8,7 @@ node_js:
 install:
   - npm i create-elm-app -g
   - npm install -g gh-pages
+  - npm i
 
 script:
   - elm-app test
