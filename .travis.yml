@@ -13,12 +13,13 @@ install:
 script:
   - elm-app test
   - elm-app build
-  - gh-pages -d build
 
 deploy:
   provider: pages
   skip_cleanup: true
+  target_branch: 'gh_pages'
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep_history: true
+  local_dir: 'build'
   on:
     branch: master
