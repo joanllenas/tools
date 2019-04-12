@@ -17,7 +17,7 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
-  target_branch: 'gh_pages'
+  target_branch: 'gh-pages'
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep_history: true
   local_dir: 'build'
